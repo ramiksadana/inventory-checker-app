@@ -569,7 +569,9 @@ final class Model: ObservableObject {
                 }
                 
                 let message = self.generateNotificationText(from: allAvailableModels)
+                #if os(macOS)
                 NotificationManager.shared.sendNotification(title: hasPreferredModel ? "Preferred Model Found!" : "Apple Store Inventory", body: message)
+                #endif
             }
         }
     }
@@ -659,6 +661,7 @@ extension Model {
         
         model.availableParts = testStores.map { ($0, testParts) }
         model.updateErrorState(to: ModelError.noStoresFound)
+        model.preferredStoreInfo = "asas"
         
         return model
     }

@@ -16,7 +16,6 @@
 		386FDC5E2739DA7300C1BAC2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 386FDC5D2739DA7300C1BAC2 /* Preview Assets.xcassets */; };
 		386FDC662739DADD00C1BAC2 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 386FDC652739DADD00C1BAC2 /* Model.swift */; };
 		386FDC68273A18F800C1BAC2 /* SKUData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 386FDC67273A18F800C1BAC2 /* SKUData.swift */; };
-		386FDC6A273A200000C1BAC2 /* NotificationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 386FDC69273A200000C1BAC2 /* NotificationManager.swift */; };
 		387F6E7628CCF5B300E68AC0 /* iPhoneModels14-intl.json in Resources */ = {isa = PBXBuildFile; fileRef = 387F6E7528CCF5B300E68AC0 /* iPhoneModels14-intl.json */; };
 		3885D54C2891711E00BD6A78 /* Store.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3885D54B2891711E00BD6A78 /* Store.swift */; };
 		3885D54E2891713200BD6A78 /* PartAvailability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3885D54D2891713200BD6A78 /* PartAvailability.swift */; };
@@ -28,6 +27,26 @@
 		38DBAF39273D6692009992D8 /* Stores.json in Resources */ = {isa = PBXBuildFile; fileRef = 38DBAF38273D6692009992D8 /* Stores.json */; };
 		38E1C21A27E6714E0047703D /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38E1C21927E6714E0047703D /* Helpers.swift */; };
 		38E4279E273EF542006BF6D7 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 38E4279D273EF542006BF6D7 /* Credits.rtf */; };
+		85BD36B628E63ADF00B177FB /* InventoryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85BD36B528E63ADF00B177FB /* InventoryApp.swift */; };
+		85BD36B828E63ADF00B177FB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85BD36B728E63ADF00B177FB /* ContentView.swift */; };
+		85BD36BA28E63ADF00B177FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85BD36B928E63ADF00B177FB /* Assets.xcassets */; };
+		85BD36BD28E63ADF00B177FB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85BD36BC28E63ADF00B177FB /* Preview Assets.xcassets */; };
+		85BD36C328E63B1F00B177FB /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38E1C21927E6714E0047703D /* Helpers.swift */; };
+		85BD36C628E63B1F00B177FB /* Countries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D0C3A1273C60B500A7DE65 /* Countries.swift */; };
+		85BD36C728E63B1F00B177FB /* AppleWatchUltra-intl.json in Resources */ = {isa = PBXBuildFile; fileRef = 382981C228E3EA54008C68F7 /* AppleWatchUltra-intl.json */; };
+		85BD36C828E63B1F00B177FB /* SKUData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 386FDC67273A18F800C1BAC2 /* SKUData.swift */; };
+		85BD36C928E63B1F00B177FB /* iPhoneModels13-intl.json in Resources */ = {isa = PBXBuildFile; fileRef = 380CF9FA27448E860080472A /* iPhoneModels13-intl.json */; };
+		85BD36CA28E63B1F00B177FB /* Stores.json in Resources */ = {isa = PBXBuildFile; fileRef = 38DBAF38273D6692009992D8 /* Stores.json */; };
+		85BD36CC28E63B1F00B177FB /* iPhoneModels14-intl.json in Resources */ = {isa = PBXBuildFile; fileRef = 387F6E7528CCF5B300E68AC0 /* iPhoneModels14-intl.json */; };
+		85BD36CD28E63B1F00B177FB /* Analytics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D307DA2745E2E700A0686D /* Analytics.swift */; };
+		85BD36CE28E63B2400B177FB /* AllPhoneModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3885D5512891718600BD6A78 /* AllPhoneModels.swift */; };
+		85BD36CF28E63B2400B177FB /* PartAvailability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3885D54D2891713200BD6A78 /* PartAvailability.swift */; };
+		85BD36D028E63B2400B177FB /* ProductType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3885D54F2891714400BD6A78 /* ProductType.swift */; };
+		85BD36D128E63B2400B177FB /* Store.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3885D54B2891711E00BD6A78 /* Store.swift */; };
+		85BD36D228E63B2400B177FB /* GithubTag.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3885D5532891719600BD6A78 /* GithubTag.swift */; };
+		85BD36D328E63B2400B177FB /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 386FDC652739DADD00C1BAC2 /* Model.swift */; };
+		85BD36D528E6457100B177FB /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85BD36D428E6457100B177FB /* SettingsView.swift */; };
+		85BD36D628E667BB00B177FB /* NotificationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 386FDC69273A200000C1BAC2 /* NotificationManager.swift */; };
 		85C56DCE28E4F5CE0032B405 /* MenuBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85C56DCD28E4F5CE0032B405 /* MenuBarView.swift */; };
 /* End PBXBuildFile section */
 
@@ -55,11 +74,24 @@
 		38DBAF38273D6692009992D8 /* Stores.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Stores.json; sourceTree = "<group>"; };
 		38E1C21927E6714E0047703D /* Helpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helpers.swift; sourceTree = "<group>"; };
 		38E4279D273EF542006BF6D7 /* Credits.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = Credits.rtf; sourceTree = "<group>"; };
+		85BD36B328E63ADF00B177FB /* Inventory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Inventory.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		85BD36B528E63ADF00B177FB /* InventoryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InventoryApp.swift; sourceTree = "<group>"; };
+		85BD36B728E63ADF00B177FB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		85BD36B928E63ADF00B177FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		85BD36BC28E63ADF00B177FB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		85BD36D428E6457100B177FB /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		85C56DCD28E4F5CE0032B405 /* MenuBarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuBarView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		386FDC502739DA7300C1BAC2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85BD36B028E63ADF00B177FB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,7 +104,9 @@
 		386FDC4A2739DA7300C1BAC2 = {
 			isa = PBXGroup;
 			children = (
+				85BD36C128E63AF300B177FB /* Shared */,
 				386FDC552739DA7300C1BAC2 /* InventoryWatch */,
+				85BD36B428E63ADF00B177FB /* Inventory */,
 				386FDC542739DA7300C1BAC2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -81,6 +115,7 @@
 			isa = PBXGroup;
 			children = (
 				386FDC532739DA7300C1BAC2 /* InventoryWatch.app */,
+				85BD36B328E63ADF00B177FB /* Inventory.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -89,19 +124,10 @@
 			isa = PBXGroup;
 			children = (
 				386FDC562739DA7300C1BAC2 /* InventoryWatchApp.swift */,
-				386FDC582739DA7300C1BAC2 /* ContentView.swift */,
-				85C56DCD28E4F5CE0032B405 /* MenuBarView.swift */,
-				3817268D273AA898003B8D76 /* SettingsView.swift */,
 				386FDC69273A200000C1BAC2 /* NotificationManager.swift */,
-				3885D54A289170E700BD6A78 /* Model */,
-				38E1C21927E6714E0047703D /* Helpers.swift */,
-				38D307DA2745E2E700A0686D /* Analytics.swift */,
-				38DBAF38273D6692009992D8 /* Stores.json */,
-				380CF9FA27448E860080472A /* iPhoneModels13-intl.json */,
-				387F6E7528CCF5B300E68AC0 /* iPhoneModels14-intl.json */,
-				382981C228E3EA54008C68F7 /* AppleWatchUltra-intl.json */,
-				386FDC67273A18F800C1BAC2 /* SKUData.swift */,
-				38D0C3A1273C60B500A7DE65 /* Countries.swift */,
+				85C56DCD28E4F5CE0032B405 /* MenuBarView.swift */,
+				386FDC582739DA7300C1BAC2 /* ContentView.swift */,
+				3817268D273AA898003B8D76 /* SettingsView.swift */,
 				386FDC5A2739DA7300C1BAC2 /* Assets.xcassets */,
 				38E4279D273EF542006BF6D7 /* Credits.rtf */,
 				386FDC5F2739DA7300C1BAC2 /* InventoryWatch.entitlements */,
@@ -131,6 +157,42 @@
 			path = Model;
 			sourceTree = "<group>";
 		};
+		85BD36B428E63ADF00B177FB /* Inventory */ = {
+			isa = PBXGroup;
+			children = (
+				85BD36B528E63ADF00B177FB /* InventoryApp.swift */,
+				85BD36B728E63ADF00B177FB /* ContentView.swift */,
+				85BD36D428E6457100B177FB /* SettingsView.swift */,
+				85BD36B928E63ADF00B177FB /* Assets.xcassets */,
+				85BD36BB28E63ADF00B177FB /* Preview Content */,
+			);
+			path = Inventory;
+			sourceTree = "<group>";
+		};
+		85BD36BB28E63ADF00B177FB /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				85BD36BC28E63ADF00B177FB /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		85BD36C128E63AF300B177FB /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				3885D54A289170E700BD6A78 /* Model */,
+				38E1C21927E6714E0047703D /* Helpers.swift */,
+				38D307DA2745E2E700A0686D /* Analytics.swift */,
+				38DBAF38273D6692009992D8 /* Stores.json */,
+				380CF9FA27448E860080472A /* iPhoneModels13-intl.json */,
+				387F6E7528CCF5B300E68AC0 /* iPhoneModels14-intl.json */,
+				382981C228E3EA54008C68F7 /* AppleWatchUltra-intl.json */,
+				386FDC67273A18F800C1BAC2 /* SKUData.swift */,
+				38D0C3A1273C60B500A7DE65 /* Countries.swift */,
+			);
+			path = Shared;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -151,6 +213,23 @@
 			productReference = 386FDC532739DA7300C1BAC2 /* InventoryWatch.app */;
 			productType = "com.apple.product-type.application";
 		};
+		85BD36B228E63ADF00B177FB /* Inventory */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 85BD36C028E63ADF00B177FB /* Build configuration list for PBXNativeTarget "Inventory" */;
+			buildPhases = (
+				85BD36AF28E63ADF00B177FB /* Sources */,
+				85BD36B028E63ADF00B177FB /* Frameworks */,
+				85BD36B128E63ADF00B177FB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Inventory;
+			productName = Inventory;
+			productReference = 85BD36B328E63ADF00B177FB /* Inventory.app */;
+			productType = "com.apple.product-type.application";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -158,11 +237,14 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1310;
+				LastSwiftUpdateCheck = 1410;
 				LastUpgradeCheck = 1400;
 				TargetAttributes = {
 					386FDC522739DA7300C1BAC2 = {
 						CreatedOnToolsVersion = 13.1;
+					};
+					85BD36B228E63ADF00B177FB = {
+						CreatedOnToolsVersion = 14.1;
 					};
 				};
 			};
@@ -180,6 +262,7 @@
 			projectRoot = "";
 			targets = (
 				386FDC522739DA7300C1BAC2 /* InventoryWatch */,
+				85BD36B228E63ADF00B177FB /* Inventory */,
 			);
 		};
 /* End PBXProject section */
@@ -199,6 +282,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		85BD36B128E63ADF00B177FB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				85BD36CC28E63B1F00B177FB /* iPhoneModels14-intl.json in Resources */,
+				85BD36BD28E63ADF00B177FB /* Preview Assets.xcassets in Resources */,
+				85BD36BA28E63ADF00B177FB /* Assets.xcassets in Resources */,
+				85BD36C728E63B1F00B177FB /* AppleWatchUltra-intl.json in Resources */,
+				85BD36CA28E63B1F00B177FB /* Stores.json in Resources */,
+				85BD36C928E63B1F00B177FB /* iPhoneModels13-intl.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -210,7 +306,6 @@
 				3885D54E2891713200BD6A78 /* PartAvailability.swift in Sources */,
 				386FDC68273A18F800C1BAC2 /* SKUData.swift in Sources */,
 				38D307DB2745E2E700A0686D /* Analytics.swift in Sources */,
-				386FDC6A273A200000C1BAC2 /* NotificationManager.swift in Sources */,
 				38E1C21A27E6714E0047703D /* Helpers.swift in Sources */,
 				3885D54C2891711E00BD6A78 /* Store.swift in Sources */,
 				3817268E273AA898003B8D76 /* SettingsView.swift in Sources */,
@@ -219,8 +314,29 @@
 				3885D5542891719600BD6A78 /* GithubTag.swift in Sources */,
 				38D0C3A2273C60B500A7DE65 /* Countries.swift in Sources */,
 				3885D5522891718600BD6A78 /* AllPhoneModels.swift in Sources */,
+				85BD36D628E667BB00B177FB /* NotificationManager.swift in Sources */,
 				386FDC572739DA7300C1BAC2 /* InventoryWatchApp.swift in Sources */,
 				3885D5502891714400BD6A78 /* ProductType.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		85BD36AF28E63ADF00B177FB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				85BD36D228E63B2400B177FB /* GithubTag.swift in Sources */,
+				85BD36CE28E63B2400B177FB /* AllPhoneModels.swift in Sources */,
+				85BD36B828E63ADF00B177FB /* ContentView.swift in Sources */,
+				85BD36D328E63B2400B177FB /* Model.swift in Sources */,
+				85BD36B628E63ADF00B177FB /* InventoryApp.swift in Sources */,
+				85BD36D128E63B2400B177FB /* Store.swift in Sources */,
+				85BD36D528E6457100B177FB /* SettingsView.swift in Sources */,
+				85BD36CF28E63B2400B177FB /* PartAvailability.swift in Sources */,
+				85BD36C828E63B1F00B177FB /* SKUData.swift in Sources */,
+				85BD36C628E63B1F00B177FB /* Countries.swift in Sources */,
+				85BD36D028E63B2400B177FB /* ProductType.swift in Sources */,
+				85BD36CD28E63B1F00B177FB /* Analytics.swift in Sources */,
+				85BD36C328E63B1F00B177FB /* Helpers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -356,7 +472,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"InventoryWatch/Preview Content\"";
-				DEVELOPMENT_TEAM = 64A6JSYH8N;
+				DEVELOPMENT_TEAM = T73EZMH2MB;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -387,7 +503,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"InventoryWatch/Preview Content\"";
-				DEVELOPMENT_TEAM = 64A6JSYH8N;
+				DEVELOPMENT_TEAM = T73EZMH2MB;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -403,6 +519,71 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		85BD36BE28E63ADF00B177FB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Inventory/Preview Content\"";
+				DEVELOPMENT_TEAM = T73EZMH2MB;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vrvr.Inventory;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		85BD36BF28E63ADF00B177FB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Inventory/Preview Content\"";
+				DEVELOPMENT_TEAM = T73EZMH2MB;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vrvr.Inventory;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
@@ -423,6 +604,15 @@
 			buildConfigurations = (
 				386FDC632739DA7300C1BAC2 /* Debug */,
 				386FDC642739DA7300C1BAC2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		85BD36C028E63ADF00B177FB /* Build configuration list for PBXNativeTarget "Inventory" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				85BD36BE28E63ADF00B177FB /* Debug */,
+				85BD36BF28E63ADF00B177FB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
